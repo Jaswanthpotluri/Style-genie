@@ -13,6 +13,7 @@ Steps:
 2) Data Preprocessing: Removed some outliers, Mapped the names of images in .csv file to the images folder.
 
 Skintone Training and Testing ->
+
 3) Image Processing:
    
                      -> MTCNN(Multi-task Cascaded CNN) for face detection. Removes unwanted regions or noise in the image.
