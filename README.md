@@ -5,6 +5,7 @@
 ---
 
 Dataset: The Monk Skin Tone (MST) Scale is a 10-shade scale developed by Dr. Ellis Monk in partnership with Google to represent a broader range of human skin tones than previously available scales. https://skintone.google/mste-dataset
+<img width="1576" height="236" alt="image" src="https://github.com/user-attachments/assets/5b420d99-7821-4bec-b03c-3f642439e959" />
 
 ## 🧠 What It Does
 
