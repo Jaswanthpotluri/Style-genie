@@ -11,6 +11,7 @@ occasion.
 Steps:
 1) Dataset: Monk Skintone Dataset (https://skintone.google/mste-dataset). Skintone is classified into 10 types i.e, from Very fair to Darkest.
 2) Data Preprocessing: Removed some outliers, Mapped the names of images in .csv file to the images folder.
+
 Skintone Training and Testing ->
 3) Image Processing:
    
