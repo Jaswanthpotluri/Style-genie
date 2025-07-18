@@ -1,2 +1,2 @@
-# Style-genie
-It is an ai powered Skin tone out fit recommendation using deep learning and api
+# Style-Genie
+It is an Intelligent model which predicts Skintone and recommends outfit based on skintone,gender and occation using Deep Learning and API.
