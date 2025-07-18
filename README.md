@@ -1,8 +1,10 @@
-# 🎨 Style Genie – AI-Powered Skin Tone Classification & Outfit Recommendation
+#  Style Genie – Intelligent Skin Tone Classification & Outfit Recommendation System
 
 **Style Genie** is a deep learning–driven application that intelligently detects a user's skin tone from facial images and generates personalized fashion suggestions using **Google Gemini Pro (Generative AI)**. This project integrates computer vision, transfer learning, and generative text modeling to provide a seamless AI fashion assistant experience.
 
 ---
+
+Dataset: The Monk Skin Tone (MST) Scale is a 10-shade scale developed by Dr. Ellis Monk in partnership with Google to represent a broader range of human skin tones than previously available scales. https://skintone.google/mste-dataset
 
 ## 🧠 What It Does
 
